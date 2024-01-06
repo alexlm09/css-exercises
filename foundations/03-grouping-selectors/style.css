@@ -1,0 +1,16 @@
+/* CSS style */
+
+.black-but,
+.yellow-but {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.black-but {
+    background-color: #000000;
+    color: white;
+}
+
+.yellow-but {
+    background-color: yellow;
+}
